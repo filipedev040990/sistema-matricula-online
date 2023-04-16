@@ -1,3 +1,6 @@
 [submodule "frontend-matriculas"]
 	path = frontend-matriculas
 	url = git@github.com:filipedev040990/frontend-matriculas.git
+[submodule "microservice-marketing"]
+	path = microservice-marketing
+	url = git@github.com:filipedev040990/microservice-marketing.git
